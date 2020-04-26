@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimal</title>
-    <link>myjennuinelife.github.io/</link>
+    <link>https://myjennuinelife.github.io/</link>
     <description>Recent content on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2020 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="myjennuinelife.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myjennuinelife.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ice Cream</title>
-      <link>myjennuinelife.github.io/20200426/</link>
+      <link>https://myjennuinelife.github.io/20200426/</link>
       <pubDate>Sun, 26 Apr 2020 17:00:00 +0000</pubDate>
       
-      <guid>myjennuinelife.github.io/20200426/</guid>
+      <guid>https://myjennuinelife.github.io/20200426/</guid>
       <description>Protein Ice Cream Today we made some yummy stuffs.</description>
     </item>
     
     <item>
       <title>Example</title>
-      <link>myjennuinelife.github.io/example/</link>
+      <link>https://myjennuinelife.github.io/example/</link>
       <pubDate>Mon, 20 Apr 2020 17:00:00 +0000</pubDate>
       
-      <guid>myjennuinelife.github.io/example/</guid>
+      <guid>https://myjennuinelife.github.io/example/</guid>
       <description>A quick test of my very first post! Here is the body of your post. Everything you write here will display as a paragraph. Just because text in on a new line here, does NOT mean that it will be on a new line on your webpage.
 If you&amp;rsquo;d like a new line on your page - you have to hit ENTER twice and have a blank line between the bodies of text!</description>
     </item>
