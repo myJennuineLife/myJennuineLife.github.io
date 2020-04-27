@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on jennybenny</title>
+    <title>Categories on MyJennuineLife</title>
     <link>https://myjennuinelife.com/categories/</link>
-    <description>Recent content in Categories on jennybenny</description>
+    <description>Recent content in Categories on MyJennuineLife</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright © 2020, Jenn C and the Hugo Authors; all rights reserved.</copyright>
     
 	<atom:link href="https://myjennuinelife.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
